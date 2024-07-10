@@ -1,2 +1,1 @@
-# pruebaLogyca
-rest django
+
